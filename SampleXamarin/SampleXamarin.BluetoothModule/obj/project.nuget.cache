@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6E74jKtqz0aJPe4fR2/v2j7NCtrZ6PZ0eurKh1SI90D39qPjC0EHVA8MTNQ/N9hHUgykGUN1XDZRuxm/SPICg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\source\\repos\\bachelor-thesis\\SampleXamarin\\SampleXamarin.BluetoothModule\\SampleXamarin.BluetoothModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.deps.json
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.dll
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.pdb
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.AssemblyInfo.cs
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.dll
+C:\Users\rober\source\repos\bachelor-thesis\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.pdb
